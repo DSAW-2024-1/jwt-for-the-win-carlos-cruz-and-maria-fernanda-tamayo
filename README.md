@@ -3,7 +3,7 @@
 ## Carlos David Cruz - Maria Fernanda Tamayo
 ### Universidad de La Sabana
 #### 2024 - I
-##### Link del deploy: https://jwt-deploy.vercel.app/
+
 
 ## Seguridad de Endpoints en Backend
 
